@@ -1,0 +1,52 @@
+id,name,email,position,majorId
+1,PGS.TS. Ngô Hồng Sơn,son.ngohong@phenikaa-uni.edu.vn,Trưởng khoa,2
+2,TS. Mai Xuân Tráng,trang.maixuan@phenikaa-uni.edu.vn,Phó Trưởng khoa,2
+3,TS. Phạm Ngọc Hưng,hung.phamngoc@phenikaa.edu.vn,Phó Trưởng khoa,2
+4,PGS.TS. Lê Văn Vinh,vinh.levan@phenikaa-uni.edu.vn,Giảng viên - Trưởng nhóm nghiên cứu,2
+5,PGS.TS. Phạm Tuấn Minh,minh.phamtuan@phenikaa-uni.edu.vn,Giảng viên,2
+6,TS. Lê Hoàng Anh,anh.lehoang@phenikaa-uni.edu.vn,Giám đốc Trung tâm CNTT,2
+7,TS. Nguyễn Công Lượng,luong.nguyencong@phenikaa-uni.edu.vn,Giảng viên - Trưởng nhóm nghiên cứu,2
+8,PGS.TS. Phạm Tiến Lâm,lam.phamtien@phenikaa-uni.edu.vn,Giảng viên - Giám đốc CTĐT,2
+9,PGS.TS. Phạm Văn Cảnh,canh.phamvan@phenikaa-uni.edu.vn,Giảng viên - Giám đốc CTĐT,2
+10,TS. Trịnh Thanh Bình,binh.trinhthanh@phenikaa-uni.edu.vn,Giảng viên - Giám đốc CTĐT,2
+11,ThS. Nguyễn Thành Trung,trung.nguyenthanh@phenikaa-uni.edu.vn,Giảng viên - Giám đốc CTĐT CNTT Việt-Nhật,2
+12,ThS. Vũ Thị Ngọc Anh,anh.vuthingoc1@phenikaa-uni.edu.vn,Giảng viên - Chủ tịch Công đoàn Khoa,2
+13,TS. Tạ Thúy Anh,anh.tathuy@phenikaa-uni.edu.vn,Giảng viên,2
+14,TS. Nguyễn Văn Duy,duy.nguyenvan@phenikaa-uni.edu.vn,Giảng viên/Postdoc,2
+15,TS. Trần Đăng Hoan,hoan.trandang@phenikaa-uni.edu.vn,Giảng viên - Nghiên cứu viên,2
+16,TS. Trịnh Thành,,Giảng viên,2
+17,TS. Đoàn Trung Sơn,son.doantrung@phenikaa-uni.edu.vn,Giảng viên - Giám đốc CTĐT An toàn thông tin,2
+18,TS. Dương Thị Kim Huyền,huyen.duongthikim@phenikaa-uni.edu.vn,Giảng viên,2
+19,TS. Nguyễn Thị Thùy Liên,lien.nguyenthithuy@phenikaa-uni.edu.vn,Giảng viên - Giám đốc CTĐT CNTT,2
+20,ThS. Vũ Văn Quang,quang.vuvan@phenikaa-uni.edu.vn,Giảng viên,2
+21,ThS. Nguyễn Minh Anh,anh.nguyenminh@phenikaa-uni.edu.vn,Giảng viên - Nghiên cứu viên,2
+22,ThS. Phạm Hoàng Giang,giang.phamhoang@phenikaa-uni.edu.vn,Giảng viên - Nghiên cứu viên,2
+23,TS. Phạm Văn Hà,ha.phamvan@phenikaa-uni.edu.vn,Giảng viên,2
+24,ThS. Nguyễn Văn Thiệu,thieu.nguyenvan@phenikaa-uni.edu.vn,Giảng viên,2
+25,ThS. Nguyễn Văn Cường,cuong.nguyenvan@phenikaa-uni.edu.vn,Giảng viên,2
+26,ThS. La Văn Quân,quan.lavan@phenikaa-uni.edu.vn,Giảng viên,2
+27,TS. Bùi Huy Toàn,toan.buihuy@phenikaa-uni.edu.vn,Giảng viên,2
+28,TS. Đặng Thị Thuý An,an.dangthithuy@phenikaa-uni.edu.vn,Giảng viên,2
+29,TS. Mai Thuý Nga,nga.maithuy@phenikaa-uni.edu.vn,Giảng viên,2
+30,ThS. Nguyễn Thị Khánh Trâm,tram.nguyenthikhanh@phenikaa-uni.edu.vn,Giảng viên,2
+31,TS. Nguyễn Lệ Thu,thu.nguyenle1@phenikaa-uni.edu.vn,Giảng viên,2
+32,TS. Nguyễn Thanh Bình,binh.nguyenthanh@phenikaa-uni.edu.vn,Giảng viên,2
+33,ThS. Phạm Trung Dũng,dung.phamtrung@phenikaa-uni.edu.vn,Giảng viên,2
+34,ThS. Vũ Quang Dũng,dung.vuquang@phenikaa-uni.edu.vn,Giảng viên,2
+35,ThS. Nguyễn Văn Sơn,son.nguyenvan@phenikaa-uni.edu.vn,Giảng viên,2
+36,TS. Nguyễn Thị Vân,van.nguyenthi1@phenikaa-uni.edu.vn,Giảng viên,2
+37,ThS. Nguyễn Hữu Đạt,dat.nguyenhuu@phenikaa-uni.edu.vn,Giảng viên - Bí thư Đoàn TN Trường,2
+38,TS. Đỗ Quốc Trường,truong.doquoc@phenikaa-uni.edu.vn,Giảng viên,2
+39,ThS. Phạm Kim Thành,thanh.phamkim@phenikaa-uni.edu.vn,Giảng viên,2
+40,ThS. Nguyễn Xuân Quế,que.nguyenxuan@phenikaa-uni.edu.vn,Giảng viên,2
+41,ThS. Nguyễn Thị Dinh,dinh.nguyenthi@phenikaa-uni.edu.vn,Giảng viên,2
+42,ThS. NCS. Nguyễn Anh Tuấn,tuan.nguyenanh2@phenikaa-uni.edu.vn,Giảng viên,2
+43,ThS. Đặng Thị Ngoan,ngoan.thidang@phenikaa-uni.edu.vn,Giảng viên,2
+44,ThS. Lương Tùng Dương,duong.luongtung@phenikaa-uni.edu.vn,Giảng viên,2
+45,ThS. Nguyễn Ngọc Hùng,hung.ngocnguyen@phenikaa-uni.edu.vn,Giảng viên,2
+46,ThS. Vũ Thị Kiều Anh,anh.vuthikieu@phenikaa-uni.edu.vn,Giảng viên,2
+47,TS. Nguyễn Ngọc Giang,giang.nguyenngoc@phenikaa-uni.edu.vn,Giảng viên,2
+48,TS. Nguyễn Kim Tuấn,tuan.nguyenkim@phenikaa-uni.edu.vn,Giảng viên,2
+49,ThS. Bùi Anh Tuấn,tuan.buianh@phenikaa-uni.edu.vn,Giảng viên - Phó Bí thư Đoàn TN Trường,2
+50,CN. Nguyễn Thị Ngọc Lan,lan.nguyenthingoc@phenikaa-uni.edu.vn,Giáo vụ,2
+51,CN. Vũ Thị Huyền,huyen.vuthi@phenikaa-uni.edu.vn,Giáo vụ,2
